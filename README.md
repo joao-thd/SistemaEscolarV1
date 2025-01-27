@@ -6,7 +6,6 @@ Este projeto é um **Sistema Escolar** desenvolvido com **ASP.NET Core MVC**. El
 
 - **ASP.NET Core MVC**: Framework para criar aplicações web baseadas no padrão MVC (Model-View-Controller).
 - **C#**: Linguagem de programação utilizada para o desenvolvimento do backend.
-- **MySQL**: Banco de dados para armazenar os pedidos e os itens da cantina.
 - **HTML/CSS**: Usados para estruturar e estilizar as páginas do frontend.
 
 ## Funcionalidades
